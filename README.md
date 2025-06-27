@@ -13,7 +13,7 @@ Hello 社区的朋友，欢迎关注 **STBL Foundation（稳定币基金会）**
 
 ## 特别致谢
 
-本项目在构建 Layer1 区块链过程中，大量引用了 [0xPolygon edge](https://github.com/0xPolygon/edge) 组织的开源代码。  
+本项目在构建 Layer1 区块链过程中，大量引用了 [0xPolygon edge](https://github.com/0xPolygon) 组织的开源代码。  
 **0xPolygon edge** 是 EVM POS 侧链的绝佳方案，为以太坊生态做出了卓越的贡献。  
 在此，STBL Foundation 向 0xPolygon edge 团队表示衷心的感谢！
 
