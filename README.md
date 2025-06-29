@@ -36,7 +36,7 @@ Hello 社区的朋友，欢迎关注 **STBL Foundation（稳定币基金会）**
    最多募集 1000 台服务器，监控所有验证者的工作状态，定期发放公链代币作为奖励。
 
 2. **独立 Layer1 区块链**  
-   打造一条 EVM 兼容、高 TPS、高度去中心化的独立 Layer1 公链，作为人民币稳定币的载体。代码已开发完成，服务器到位即可部署。
+   打造一条 EVM 兼容、高 TPS、高度去中心化的独立 Layer1 公链，作为人民币稳定币的载体。代码已开发完成，命名为STBL Layer1,开源仓库:https://github.com/STBLFoundation/STBL-Layer1
 
 3. **原生代币发行**  
    公链原生代币 $STBL，总量 100 亿，由 STBL 基金会持有。目前暂无 VC 投资。  
@@ -44,7 +44,7 @@ Hello 社区的朋友，欢迎关注 **STBL Foundation（稳定币基金会）**
    主网上线后，Magic Eden发行创世区块纪念NFT，售价2000POL，购买者获得白名单。可领取100万$STBL代币
 
    $STBL是STBL Foundation自主开发Layer1区块链的原生代币，用于支付网络gas费，和POS质押参与共识。
-   
+
    $STBL也是STBL Foundation(稳定币基金会)的股权代币。如果STBL Foundation在股票市场上市，$STBL代币持有者可以获得对应份额的股票。
 
    公链和稳定币，加上信仰，组成了STBL Foundation。  
